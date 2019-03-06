@@ -1,7 +1,8 @@
 module.exports = function(RED) {
     "use strict";
     var robot = require("robotjs");
-	
+    console.log(robot.getMousePos())
+    
     function AutokeyNode(n) {
         RED.nodes.createNode(this, n);
         var node = this;

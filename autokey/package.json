@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vizkits/node-red-nodes/tree/master/autokey"
+    "url": "https://github.com/namgk/node-red-contrib-keybot/tree/master/autokey"
   },
   "keywords": [
     "node-red",
@@ -23,6 +23,7 @@
     }
   },
   "author": {
-    "name": "Alex Chien"
+    "name": "Alex Chien",
+    "name": "Nam Giang"
   }
 }
